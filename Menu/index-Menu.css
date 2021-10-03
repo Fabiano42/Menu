@@ -54,13 +54,13 @@ h3{
 	width: 225px;
 	cursor: pointer;
 	font-size: 18px;
-	background: rgba(255, 255, 255, 0.774);
+	background: rgba(23, 34, 85, 0.774);
 	box-shadow: 0 8px 32px 0 rgba(212, 213, 230, 0.37);
 	backdrop-filter: blur( 20px );
 	-webkit-backdrop-filter: blur( 20px );
 	border-radius: 25px;
 	border: 1px solid rgba( 255, 255, 255, 0.18 );
-	color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 }
 
 
